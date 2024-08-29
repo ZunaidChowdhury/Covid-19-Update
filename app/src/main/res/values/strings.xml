@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">COVID-19 Update</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_upload">Upload</string>
+    <string name="action_sub">SUB Menu</string>
+    <string name="sub_item_1">Sub Item 1</string>
+    <string name="sub_item_2">Sub Item 2</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_downloads">Downloads</string>
+    <string name="menu_profile">Profiles</string>
+    <string name="menu_more_apps">More Apps</string>
+    <string name="menu_contact">Contact Us</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_send">Send</string>
+    <string name="menu_share">Share</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Coronavirus (COVID-19)</string>
+    <string name="nav_header_subtitle">Update</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="menu_rate_app">Rate App</string>
+    <string name="menu_about">About</string>
+    <string name="menu_exit">Exit</string>
+    <string name="total_cases_pie_chart">Total Cases</string>
+    <string name="recovered_pie_chart">Recovered</string>
+    <string name="deaths_pie_chart">Deaths</string>
+    <string name="active_pie_chart">Active</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_about">About</string>
+    <string name="menu_checkForUpdate">Check For Update</string>
+</resources>
